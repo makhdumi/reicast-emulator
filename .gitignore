@@ -49,4 +49,10 @@ shell/linux/.map
 shell/linux/nosym-reicast.elf
 shell/linux/reicast.elf
 
+# Windows stuff
+shell/.vs/**/*
+shell/x64/**/generated
+shell/x86/**/generated
+
+
 reicast-ios.xccheckout
